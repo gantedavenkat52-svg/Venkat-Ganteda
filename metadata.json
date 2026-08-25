@@ -1,0 +1,6 @@
+{
+  "name": "HydroPulse AI - Smart IoT Water Quality Monitoring",
+  "description": "Continuous real-time IoT water quality monitoring with multi-sensor telemetry, AI anomaly detection, predictive risk scoring, smart alerts, and interactive diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
